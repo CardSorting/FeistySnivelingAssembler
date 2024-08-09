@@ -1,0 +1,40 @@
+{
+  "name": "Plan D - Organic Bulking",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Power Pancakes: 1 cup organic whole wheat flour, 2 organic eggs, 1 cup organic whole milk, 1 scoop organic vanilla protein powder, 1 mashed organic banana, 2 tbsp organic maple syrup, 1/4 cup organic chopped walnuts",
+      "instructions": "Mix ingredients, cook pancakes. Top with maple syrup and walnuts."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Protein Yogurt Parfait: 1 cup organic full-fat Greek yogurt, 1/2 cup organic granola, 1/2 cup organic mixed berries, 1 tbsp organic honey, 1 scoop organic vanilla protein powder",
+      "instructions": "Layer yogurt mixed with protein powder, granola, and berries. Drizzle with honey."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Salmon Quinoa Bowl: 6 oz grilled organic salmon, 1 cup cooked organic quinoa, 1 cup organic roasted vegetables (zucchini, bell peppers, onions), 1/2 organic avocado, 2 tbsp organic olive oil, 1 tbsp organic lemon juice",
+      "instructions": "Grill salmon, roast vegetables. Combine all ingredients in a bowl, dress with olive oil and lemon juice."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Nut Butter Energy Balls: 1/2 cup organic almond butter, 1/4 cup organic honey, 1 cup organic rolled oats, 1/4 cup organic ground flaxseed, 1/4 cup organic dark chocolate chips",
+      "instructions": "Mix ingredients, roll into balls, and refrigerate."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Mass Gainer Shake: 2 scoops organic mass gainer protein powder, 1 cup organic whole milk, 1 organic banana, 2 tbsp organic peanut butter, 1/2 cup organic oats",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Beef and Sweet Potato Bowl: 8 oz organic grass-fed ground beef, 1 large organic sweet potato (cubed and roasted), 1 cup organic sautéed kale, 1/4 cup organic feta cheese, 2 tbsp organic olive oil",
+      "instructions": "Cook beef, roast sweet potato, sauté kale. Combine in a bowl and top with feta cheese."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Protein Pudding: 1 cup organic whole milk, 1 scoop organic chocolate protein powder, 2 tbsp organic chia seeds, 1 tbsp organic cocoa powder, 1 tbsp organic honey",
+      "instructions": "Mix ingredients and refrigerate for at least 2 hours before consuming."
+    }
+  }
+}

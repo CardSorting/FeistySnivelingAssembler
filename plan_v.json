@@ -1,0 +1,40 @@
+{
+  "name": "Plan V - Organic Diabetic-Friendly Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Low-Glycemic Breakfast Bowl: 2 organic eggs (scrambled), 1/2 cup organic black beans, 1/4 organic avocado, 1/2 cup organic mixed vegetables (spinach, bell peppers), 1 slice organic whole grain toast",
+      "instructions": "Scramble eggs with vegetables. Serve with black beans, avocado, and whole grain toast."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Greek Yogurt Parfait: 1 cup organic Greek yogurt, 1/4 cup organic mixed berries, 2 tbsp organic chopped walnuts, 1 tsp organic stevia (if needed)",
+      "instructions": "Layer yogurt with berries and top with walnuts. Sweeten with stevia if desired."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Grilled Chicken and Quinoa Salad: 5 oz organic grilled chicken breast, 1/2 cup cooked organic quinoa, 2 cups organic mixed greens, 1/4 cup organic cherry tomatoes, 2 tbsp organic olive oil and vinegar dressing",
+      "instructions": "Grill chicken. Mix quinoa, greens, and tomatoes. Top with chicken and dress with olive oil and vinegar."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Protein Shake: 1 scoop organic pea protein powder, 1 cup organic unsweetened almond milk, 1/2 organic cucumber, 1 tbsp organic chia seeds",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Turkey Roll-Ups: 3 oz organic turkey breast, 1 oz organic cheese, 1/4 organic avocado",
+      "instructions": "Roll turkey slices with cheese and avocado inside."
+    },
+    "Dinner": {
+      "time": "19:30",
+      "details": "Organic Baked Cod with Broccoli and Sweet Potato: 6 oz organic baked cod, 1 cup organic steamed broccoli, 1/2 medium organic sweet potato, 1 tbsp organic olive oil, 1 organic lemon",
+      "instructions": "Bake cod. Steam broccoli. Bake sweet potato. Drizzle fish and vegetables with olive oil and lemon juice."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Cottage Cheese with Almonds: 1/2 cup organic cottage cheese, 2 tbsp organic sliced almonds, 1/4 tsp organic cinnamon",
+      "instructions": "Mix cottage cheese with almonds and sprinkle with cinnamon."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Plan H - Organic High-Calorie Muscle Gainer",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Calorie-Dense Oatmeal: 1 cup organic steel-cut oats, 1 cup organic whole milk, 1 organic banana (mashed), 2 tbsp organic almond butter, 2 tbsp organic honey, 1 scoop organic vanilla protein powder, 1/4 cup organic chopped walnuts",
+      "instructions": "Cook oats with milk. Stir in banana, almond butter, honey, and protein powder. Top with walnuts."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic High-Calorie Smoothie: 2 scoops organic mass gainer protein powder, 1 cup organic whole milk, 1 organic banana, 1/2 cup organic oats, 2 tbsp organic peanut butter, 1/4 cup organic heavy cream",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Bulking Burrito Bowl: 6 oz organic grass-fed ground beef, 1 cup cooked organic brown rice, 1/2 cup organic black beans, 1/2 organic avocado, 1/4 cup organic shredded cheese, 1/4 cup organic sour cream, 1/4 cup organic salsa",
+      "instructions": "Cook beef. Layer rice, beans, beef, and toppings in a bowl."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Calorie-Packed Trail Mix: 1/4 cup organic cashews, 1/4 cup organic almonds, 1/4 cup organic dried cranberries, 1/4 cup organic dark chocolate chips",
+      "instructions": "Mix all ingredients together."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Muscle Recovery Shake: 2 scoops organic whey protein powder, 1 cup organic whole milk, 1 organic banana, 2 tbsp organic honey, 1/4 cup organic rolled oats, 2 tbsp organic heavy cream",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Steak and Sweet Potato Mash: 8 oz organic ribeye steak, 1 large organic sweet potato, 1/4 cup organic whole milk, 2 tbsp organic butter, 1 cup organic steamed broccoli",
+      "instructions": "Grill steak. Mash sweet potato with milk and butter. Serve with steamed broccoli."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Peanut Butter Banana Sandwich: 2 slices organic whole grain bread, 2 tbsp organic peanut butter, 1 organic banana, 1 tbsp organic honey",
+      "instructions": "Spread peanut butter on bread, add sliced banana, drizzle with honey."
+    }
+  }
+}

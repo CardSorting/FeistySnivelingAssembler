@@ -1,0 +1,40 @@
+{
+  "name": "Plan J - Organic Asian-Inspired Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Miso Soup with Tofu and Eggs: 2 cups organic miso broth, 6 oz organic firm tofu (cubed), 2 organic eggs, 1 cup organic spinach, 1/4 cup organic green onions, 1 cup cooked organic brown rice",
+      "instructions": "Prepare miso soup with tofu and spinach. Poach eggs separately. Serve over brown rice, garnish with green onions."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Edamame Protein Boost: 1 cup organic edamame (in pods), 1 scoop organic vanilla protein powder, 1 cup organic unsweetened almond milk, 1 tbsp organic almond butter",
+      "instructions": "Steam edamame. Blend protein powder, almond milk, and almond butter. Enjoy together."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Teriyaki Chicken Bowl: 6 oz organic chicken breast, 1 cup cooked organic brown rice, 1 cup organic stir-fried vegetables (broccoli, carrots, snap peas), 2 tbsp organic teriyaki sauce, 1 tbsp organic sesame seeds",
+      "instructions": "Grill chicken, stir-fry vegetables. Serve over rice, drizzle with teriyaki sauce, sprinkle with sesame seeds."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Rice Balls with Nori: 1 cup cooked organic sushi rice, 2 sheets organic nori (cut into strips), 1 tbsp organic rice vinegar, 1 tsp organic sesame oil",
+      "instructions": "Mix rice with vinegar and oil. Form into balls and wrap with nori strips."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Matcha Protein Smoothie: 1.5 scoops organic vanilla protein powder, 1 tsp organic matcha powder, 1 cup organic coconut milk, 1 frozen organic banana, 1 tbsp organic honey",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Salmon Sushi Bowl: 6 oz organic seared salmon, 1 cup organic sushi rice, 1/2 organic avocado, 1/4 cup organic edamame, 1/4 cup organic shredded carrots, 2 tbsp organic pickled ginger, 2 tbsp organic soy sauce",
+      "instructions": "Sear salmon. Arrange all ingredients over sushi rice. Serve with soy sauce on the side."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Chia Seed Pudding with Mango: 1/4 cup organic chia seeds, 1 cup organic coconut milk, 1 tbsp organic honey, 1/2 cup organic diced mango",
+      "instructions": "Mix chia seeds, coconut milk, and honey. Refrigerate for at least 2 hours. Top with mango before serving."
+    }
+  }
+}

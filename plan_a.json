@@ -1,0 +1,40 @@
+{
+  "name": "Plan A",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Green Smoothie Bowl: 1 cup spinach, 1/2 cup kale, 1 banana, 1/2 cup Greek yogurt, 1/2 cup almond milk, 1 tbsp chia seeds, 1/4 cup granola, 1 tbsp almond butter",
+      "instructions": "Blend all ingredients until smooth and top with granola."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Quinoa and Nut Salad: 1 cup cooked quinoa, 1/2 cup mixed greens (spinach, arugula), 1/4 cup chopped walnuts, 1/4 cup diced apple, 2 tbsp vinaigrette (olive oil, lemon juice)",
+      "instructions": "Mix quinoa, greens, walnuts, and apple. Drizzle with vinaigrette."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Leafy Green and Chickpea Wrap: 1 whole grain wrap, 1 cup mixed greens (spinach, kale, arugula), 1/2 cup cooked chickpeas, 1/4 avocado (sliced), 1/4 cup shredded carrots, 2 tbsp hummus",
+      "instructions": "Spread hummus on wrap, add greens, chickpeas, avocado, and carrots. Roll up and serve."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Trail Mix: 1/4 cup almonds, 1/4 cup dried cranberries, 1/4 cup pumpkin seeds",
+      "instructions": "Mix all ingredients together and enjoy."      
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Greek Yogurt with Berries and Nuts: 1 cup Greek yogurt, 1/2 cup mixed berries, 1/4 cup chopped almonds",
+      "instructions": "Top Greek yogurt with berries and nuts."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Hearty Salad Bowl: 1 cup mixed greens (spinach, kale, arugula), 1/2 cup cooked farro, 1/2 cup roasted chickpeas, 1/4 cup diced cucumbers, 1/4 cup cherry tomatoes (halved), 2 tbsp sunflower seeds, 2 tbsp tahini dressing",
+      "instructions": "Combine all ingredients in a bowl and drizzle with tahini dressing."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Cottage Cheese with Nuts and Seeds: 1 cup cottage cheese, 1 tbsp flax seeds, 1 tbsp chia seeds, 1/4 cup mixed nuts (almonds, walnuts)",
+      "instructions": "Mix cottage cheese with flax seeds, chia seeds, and nuts."
+    }
+  }
+}

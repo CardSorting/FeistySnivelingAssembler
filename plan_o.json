@@ -1,0 +1,45 @@
+{
+  "name": "Plan O - Organic Endurance Athlete Muscle Builder",
+  "meals": {
+    "Pre-Morning Workout": {
+      "time": "05:30",
+      "details": "Organic Energy Gel: 1 organic banana, 1 tbsp organic honey, 1 tbsp organic chia seeds",
+      "instructions": "Blend banana and honey. Stir in chia seeds."
+    },
+    "Post-Morning Workout Breakfast": {
+      "time": "07:30",
+      "details": "Organic Protein Oatmeal: 1 cup organic rolled oats, 1 scoop organic vanilla protein powder, 1 organic apple (diced), 2 tbsp organic almond butter, 1 tbsp organic honey, 1 cup organic almond milk",
+      "instructions": "Cook oats with almond milk. Stir in protein powder, apple, almond butter, and honey."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:30",
+      "details": "Organic Trail Mix: 1/4 cup organic almonds, 1/4 cup organic cashews, 1/4 cup organic dried cranberries, 1/4 cup organic pumpkin seeds",
+      "instructions": "Mix all ingredients together."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Quinoa Power Bowl: 1 cup cooked organic quinoa, 4 oz organic grilled chicken breast, 1/2 organic avocado, 1/2 cup organic black beans, 1/4 cup organic corn, 2 tbsp organic salsa",
+      "instructions": "Combine all ingredients in a bowl. Top with salsa."
+    },
+    "Afternoon Snack": {
+      "time": "15:30",
+      "details": "Organic Greek Yogurt Parfait: 1 cup organic Greek yogurt, 1/4 cup organic granola, 1/2 cup organic mixed berries, 1 tbsp organic honey",
+      "instructions": "Layer yogurt, granola, and berries. Drizzle with honey."
+    },
+    "Pre-Evening Workout": {
+      "time": "17:30",
+      "details": "Organic Rice Cakes with Nut Butter: 2 organic brown rice cakes, 2 tbsp organic peanut butter, 1 organic banana (sliced)",
+      "instructions": "Spread peanut butter on rice cakes. Top with banana slices."
+    },
+    "Post-Evening Workout Dinner": {
+      "time": "19:30",
+      "details": "Organic Salmon with Sweet Potato and Broccoli: 6 oz organic grilled salmon, 1 medium organic sweet potato, 1 cup organic steamed broccoli, 1 tbsp organic olive oil, 1 lemon",
+      "instructions": "Grill salmon. Bake sweet potato. Steam broccoli. Drizzle everything with olive oil and lemon juice."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Protein Shake: 1.5 scoops organic whey protein powder, 1 cup organic whole milk, 1/2 organic banana, 1 tbsp organic almond butter",
+      "instructions": "Blend all ingredients until smooth."
+    }
+  }
+}

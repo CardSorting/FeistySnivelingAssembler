@@ -1,0 +1,40 @@
+{
+  "name": "Plan B",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Overnight Oats: 1/2 cup oats, 1 cup almond milk, 1 tbsp chia seeds, 1/2 cup blueberries, 1 tbsp almond butter",
+      "instructions": "Mix oats, almond milk, chia seeds, and blueberries in a jar. Refrigerate overnight. Add almond butter before serving."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Apple Slices with Peanut Butter: 1 apple sliced, 2 tbsp peanut butter",
+      "instructions": "Slice the apple and serve with peanut butter."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Quinoa Salad: 1 cup cooked quinoa, 1/2 cup cherry tomatoes, 1/2 cup cucumber, 1/4 cup feta cheese, 2 tbsp olive oil, 1 tbsp lemon juice",
+      "instructions": "Mix all ingredients together and serve."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Greek Yogurt with Honey and Nuts: 1 cup Greek yogurt, 1 tbsp honey, 1/4 cup mixed nuts",
+      "instructions": "Top Greek yogurt with honey and mixed nuts."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Protein Smoothie: 1 banana, 1/2 cup Greek yogurt, 1 cup almond milk, 1 tbsp peanut butter",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Grilled Chicken with Vegetables: 6 oz grilled chicken breast, 1 cup steamed broccoli, 1/2 cup quinoa",
+      "instructions": "Grill the chicken breast and steam the broccoli. Serve with cooked quinoa."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Cottage Cheese with Pineapple: 1 cup cottage cheese, 1/2 cup pineapple chunks",
+      "instructions": "Mix cottage cheese with pineapple chunks."
+    }
+  }
+}

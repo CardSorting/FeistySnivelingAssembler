@@ -1,0 +1,25 @@
+{
+  "name": "Plan S - Organic Intermittent Fasting Muscle Builder",
+  "meals": {
+    "Meal 1 (Break Fast)": {
+      "time": "12:00",
+      "details": "Organic Protein-Packed Brunch: 3 organic eggs, 4 oz organic smoked salmon, 1/2 organic avocado, 1 cup organic spinach, 1 slice organic whole grain bread, 1 tbsp organic olive oil",
+      "instructions": "Scramble eggs with spinach. Serve with smoked salmon, avocado, and toasted bread drizzled with olive oil."
+    },
+    "Post-Workout Shake": {
+      "time": "15:00",
+      "details": "Organic Recovery Smoothie: 2 scoops organic whey protein powder, 1 organic banana, 1 cup organic berries, 1 tbsp organic almond butter, 1 cup organic almond milk, 1 tbsp organic chia seeds",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Meal 2": {
+      "time": "17:00",
+      "details": "Organic Chicken and Quinoa Bowl: 6 oz organic grilled chicken breast, 1 cup cooked organic quinoa, 1 cup organic roasted vegetables (broccoli, carrots, bell peppers), 2 tbsp organic hummus, 1 tbsp organic olive oil",
+      "instructions": "Grill chicken. Roast vegetables. Serve over quinoa with a dollop of hummus and drizzle of olive oil."
+    },
+    "Meal 3 (Last Meal)": {
+      "time": "20:00",
+      "details": "Organic Steak with Sweet Potato and Greens: 8 oz organic grass-fed steak, 1 medium organic sweet potato, 2 cups organic mixed greens, 1/4 organic avocado, 2 tbsp organic balsamic vinaigrette",
+      "instructions": "Grill steak. Bake sweet potato. Toss greens with vinaigrette and avocado. Serve together."
+    }
+  }
+}

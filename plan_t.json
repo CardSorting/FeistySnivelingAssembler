@@ -1,0 +1,40 @@
+{
+  "name": "Plan T - Organic Low FODMAP Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Low FODMAP Oatmeal: 1/2 cup organic rolled oats, 1 cup organic lactose-free milk, 1 tbsp organic maple syrup, 1/4 cup organic strawberries, 2 tbsp organic peanut butter",
+      "instructions": "Cook oats with milk. Top with maple syrup, strawberries, and peanut butter."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Rice Cakes with Protein: 2 organic rice cakes, 4 oz organic sliced turkey breast, 1 tbsp organic olive oil",
+      "instructions": "Top rice cakes with turkey. Drizzle with olive oil."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Grilled Chicken and Quinoa: 6 oz organic grilled chicken breast, 1 cup cooked organic quinoa, 1 cup organic steamed carrots and green beans, 1 tbsp organic olive oil, 1 tsp organic herbs de Provence",
+      "instructions": "Grill chicken with herbs. Serve with quinoa and steamed vegetables drizzled with olive oil."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Protein Smoothie: 1 scoop organic low FODMAP protein powder, 1 cup organic lactose-free milk, 1/2 organic banana, 1 tbsp organic almond butter",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Hard-Boiled Eggs with Fruit: 2 organic hard-boiled eggs, 1 organic orange",
+      "instructions": "Enjoy hard-boiled eggs with a side of orange slices."
+    },
+    "Dinner": {
+      "time": "19:30",
+      "details": "Organic Grilled Salmon with Rice and Vegetables: 6 oz organic grilled salmon, 1 cup cooked organic white rice, 1 cup organic roasted zucchini and bell peppers, 1 tbsp organic lemon juice, 1 tbsp organic olive oil",
+      "instructions": "Grill salmon. Roast vegetables. Serve with rice, drizzled with lemon juice and olive oil."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Low FODMAP Trail Mix: 1/4 cup organic walnuts, 1/4 cup organic pumpkin seeds, 2 tbsp organic dark chocolate chips",
+      "instructions": "Mix all ingredients together."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Plan R - Organic Anti-Inflammatory Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Anti-Inflammatory Smoothie Bowl: 1 cup organic mixed berries, 1 cup organic spinach, 1 scoop organic plant-based protein powder, 1 tbsp organic ground flaxseed, 1 tbsp organic almond butter, 1 cup organic unsweetened almond milk, 1/4 cup organic granola",
+      "instructions": "Blend berries, spinach, protein powder, flaxseed, almond butter, and almond milk. Pour into a bowl and top with granola."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Turmeric Latte with Nuts: 1 cup organic unsweetened almond milk, 1 tsp organic turmeric powder, 1/4 tsp organic black pepper, 1 tsp organic honey, 1/4 cup organic mixed nuts",
+      "instructions": "Heat almond milk with turmeric, black pepper, and honey. Serve with a side of mixed nuts."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Salmon and Quinoa Bowl: 6 oz organic grilled salmon, 1 cup cooked organic quinoa, 1 cup organic mixed greens, 1/4 organic avocado, 1/4 cup organic cherry tomatoes, 2 tbsp organic olive oil, 1 tbsp organic lemon juice",
+      "instructions": "Grill salmon. Combine quinoa, greens, avocado, and tomatoes. Top with salmon and dress with olive oil and lemon juice."
+    },
+    "Afternoon Snack": {
+      "time": "15:30",
+      "details": "Organic Greek Yogurt with Cherries: 1 cup organic Greek yogurt, 1/2 cup organic tart cherries, 1 tbsp organic honey, 2 tbsp organic pumpkin seeds",
+      "instructions": "Top yogurt with cherries, honey, and pumpkin seeds."
+    },
+    "Pre-Workout Snack": {
+      "time": "17:30",
+      "details": "Organic Ginger and Pineapple Smoothie: 1 cup organic pineapple chunks, 1 inch organic fresh ginger, 1 scoop organic vanilla protein powder, 1 cup organic coconut water",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Post-Workout Dinner": {
+      "time": "19:30",
+      "details": "Organic Turmeric Chicken with Sweet Potato: 6 oz organic chicken breast, 1 tsp organic turmeric powder, 1 large organic sweet potato, 2 cups organic kale, 2 tbsp organic olive oil, 1 organic lemon",
+      "instructions": "Season chicken with turmeric and grill. Roast sweet potato. Sauté kale in olive oil. Serve with a squeeze of lemon."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Tart Cherry Juice with Almonds: 1 cup organic tart cherry juice, 1/4 cup organic almonds",
+      "instructions": "Enjoy tart cherry juice with a side of almonds."
+    }
+  }
+}

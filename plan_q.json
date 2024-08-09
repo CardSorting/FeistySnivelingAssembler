@@ -1,0 +1,40 @@
+{
+  "name": "Plan Q - Organic High-Calorie Hardgainer Plan",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Calorie-Dense Breakfast: 3 organic eggs, 2 organic whole grain waffles, 2 tbsp organic peanut butter, 1 organic banana, 2 tbsp organic maple syrup, 1 cup organic whole milk",
+      "instructions": "Scramble eggs. Toast waffles and spread with peanut butter. Top with sliced banana and maple syrup. Serve with milk."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic High-Calorie Smoothie: 2 scoops organic mass gainer protein powder, 1 cup organic whole milk, 1 organic banana, 1/2 cup organic oats, 2 tbsp organic almond butter, 1/4 cup organic heavy cream",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Loaded Sandwich: 2 slices organic whole grain bread, 6 oz organic turkey breast, 2 slices organic cheese, 1 organic avocado, 2 tbsp organic mayonnaise, 1 cup organic mixed greens",
+      "instructions": "Assemble sandwich with all ingredients. Serve with a side of mixed greens."
+    },
+    "Afternoon Snack": {
+      "time": "15:30",
+      "details": "Organic Trail Mix: 1/2 cup organic mixed nuts, 1/4 cup organic dried fruit, 1/4 cup organic dark chocolate chips, 1/4 cup organic coconut flakes",
+      "instructions": "Mix all ingredients together."
+    },
+    "Pre-Workout Snack": {
+      "time": "17:30",
+      "details": "Organic Energy Balls: 1 cup organic dates, 1/2 cup organic almonds, 1/4 cup organic cocoa powder, 2 tbsp organic coconut oil, 1 scoop organic whey protein powder",
+      "instructions": "Process ingredients in a food processor, roll into balls."
+    },
+    "Post-Workout Dinner": {
+      "time": "19:30",
+      "details": "Organic Calorie-Packed Pasta: 2 cups cooked organic whole grain pasta, 6 oz organic ground beef, 1 cup organic tomato sauce, 1/2 cup organic grated cheese, 2 tbsp organic olive oil, 1 cup organic steamed vegetables",
+      "instructions": "Cook pasta. Brown beef and mix with tomato sauce. Combine with pasta, top with cheese. Serve with steamed vegetables drizzled with olive oil."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Protein Pudding: 1 cup organic whole milk, 1 scoop organic casein protein powder, 2 tbsp organic chia seeds, 1 tbsp organic honey, 1/4 cup organic granola",
+      "instructions": "Mix milk, protein powder, chia seeds, and honey. Refrigerate for at least 2 hours. Top with granola before serving."
+    }
+  }
+}

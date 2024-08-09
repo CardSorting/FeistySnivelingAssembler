@@ -1,0 +1,40 @@
+{
+  "name": "Plan C - Organic Muscle Mass Gain",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "High-Protein Organic Breakfast Bowl: 1 cup organic steel-cut oats, 2 organic whole eggs, 2 organic egg whites, 1 scoop organic whey protein powder, 1 organic banana, 2 tbsp organic almond butter, 1 tbsp organic honey",
+      "instructions": "Cook oats, mix in protein powder. Scramble eggs separately. Combine all ingredients in a bowl."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Protein-Packed Smoothie: 1 cup organic whole milk, 1 scoop organic whey protein powder, 1 organic banana, 1/2 cup organic mixed berries, 2 tbsp organic peanut butter, 1 tbsp organic chia seeds",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Quinoa Chicken Bowl: 6 oz organic grilled chicken breast, 1 cup cooked organic quinoa, 1 cup organic roasted vegetables (broccoli, sweet potato, bell peppers), 1/4 organic avocado, 2 tbsp organic olive oil",
+      "instructions": "Grill chicken, roast vegetables. Combine all ingredients in a bowl and drizzle with olive oil."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Energy Boost: 1 organic apple, 2 tbsp organic almond butter, 1/4 cup organic granola",
+      "instructions": "Slice apple and serve with almond butter. Top with granola."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Recovery Shake: 1.5 scoops organic whey protein powder, 1 cup organic whole milk, 1 organic banana, 1 tbsp organic honey, 1/4 cup organic rolled oats",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Protein-Packed Plate: 8 oz organic grass-fed steak, 1 cup organic brown rice, 1.5 cups organic steamed vegetables (broccoli, carrots, green beans), 1 tbsp organic grass-fed butter",
+      "instructions": "Grill steak to desired doneness. Serve with brown rice and steamed vegetables. Top vegetables with butter."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Cottage Cheese Muscle Builder: 1 cup organic cottage cheese, 1/4 cup organic walnuts, 1 tbsp organic flaxseeds, 1/2 cup organic mixed berries",
+      "instructions": "Mix cottage cheese with walnuts and flaxseeds. Top with mixed berries."
+    }
+  }
+}

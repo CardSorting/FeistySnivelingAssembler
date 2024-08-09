@@ -1,0 +1,40 @@
+{
+  "name": "Plan F - Organic Vegan Mass Gainer",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Tofu Scramble: 14 oz organic firm tofu, 1/4 cup organic nutritional yeast, 1/2 cup organic mixed vegetables (spinach, mushrooms, bell peppers), 2 slices organic whole grain bread, 1 organic avocado, 2 tbsp organic olive oil",
+      "instructions": "Crumble and cook tofu with nutritional yeast and vegetables. Serve with whole grain toast and mashed avocado."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Protein-Packed Smoothie: 2 scoops organic vegan protein powder, 1 cup organic soy milk, 1 organic banana, 2 tbsp organic almond butter, 1/4 cup organic rolled oats, 1 tbsp organic ground flaxseed",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Lentil and Quinoa Power Bowl: 1 cup cooked organic lentils, 1/2 cup cooked organic quinoa, 1 cup organic roasted vegetables (sweet potato, Brussels sprouts), 1/4 cup organic hummus, 2 tbsp organic tahini dressing",
+      "instructions": "Combine lentils, quinoa, and roasted vegetables. Top with hummus and drizzle with tahini dressing."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Energy Balls: 1/2 cup organic dates, 1/4 cup organic almonds, 1/4 cup organic walnuts, 2 tbsp organic chia seeds, 2 tbsp organic cocoa powder",
+      "instructions": "Process ingredients in a food processor, roll into balls."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Vegan Protein Shake: 2 scoops organic vegan protein powder, 1 cup organic almond milk, 1/2 organic banana, 1 tbsp organic peanut butter, 1 cup organic spinach",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Tempeh Stir-Fry: 8 oz organic tempeh, 2 cups organic mixed vegetables (broccoli, carrots, snap peas), 1 cup cooked organic brown rice, 2 tbsp organic tamari sauce, 1 tbsp organic sesame oil",
+      "instructions": "Stir-fry tempeh and vegetables, season with tamari. Serve over brown rice."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Chia Seed Pudding: 1/4 cup organic chia seeds, 1 cup organic coconut milk, 1 tbsp organic maple syrup, 1/4 cup organic mixed nuts, 1/4 cup organic berries",
+      "instructions": "Mix chia seeds, coconut milk, and maple syrup. Refrigerate for at least 2 hours. Top with nuts and berries before serving."
+    }
+  }
+}

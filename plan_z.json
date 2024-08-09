@@ -1,0 +1,40 @@
+{
+  "name": "Plan Z - Organic Endomorph Body Type Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Protein-Packed Omelet: 3 organic egg whites, 1 organic whole egg, 1/4 cup organic cottage cheese, 1 cup organic spinach, 1/4 cup organic diced bell peppers, 1 slice organic whole grain toast",
+      "instructions": "Make an omelet with eggs, cottage cheese, spinach, and bell peppers. Serve with whole grain toast."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Greek Yogurt with Berries: 1 cup organic Greek yogurt, 1/2 cup organic mixed berries, 1 tbsp organic ground flaxseed",
+      "instructions": "Mix yogurt with berries and sprinkle with flaxseed."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Lean Protein Bowl: 5 oz organic grilled chicken breast, 1/2 cup cooked organic quinoa, 1 cup organic mixed green salad, 1/4 organic avocado, 2 tbsp organic balsamic vinaigrette",
+      "instructions": "Grill chicken. Serve over quinoa and salad. Top with avocado and dress with vinaigrette."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Apple with Almond Butter: 1 organic apple, 1 tbsp organic almond butter",
+      "instructions": "Slice apple and serve with almond butter."
+    },
+    "Post-Workout Shake": {
+      "time": "18:00",
+      "details": "Organic Protein Recovery Shake: 1 scoop organic whey protein powder, 1 cup organic unsweetened almond milk, 1/2 organic banana, 1 cup organic spinach",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:30",
+      "details": "Organic Baked Fish with Vegetables: 6 oz organic baked cod, 1 cup organic roasted Brussels sprouts, 1/2 cup organic roasted sweet potato, 1 tbsp organic olive oil, 1 organic lemon",
+      "instructions": "Bake cod. Roast Brussels sprouts and sweet potato. Drizzle with olive oil and lemon juice."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Casein Protein Pudding: 1 scoop organic casein protein powder, 1/2 cup organic unsweetened almond milk, 1 tbsp organic cocoa powder, 1 tsp organic stevia",
+      "instructions": "Mix all ingredients to form a pudding consistency. Refrigerate before eating."
+    }
+  }
+}

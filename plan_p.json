@@ -1,0 +1,40 @@
+{
+  "name": "Plan P - Organic Vegetarian Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Protein-Packed Veggie Scramble: 3 organic eggs, 1/2 cup organic cottage cheese, 1 cup organic mixed vegetables (spinach, bell peppers, mushrooms), 1 slice organic whole grain toast, 1 tbsp organic butter",
+      "instructions": "Scramble eggs with cottage cheese and vegetables. Serve with buttered toast."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Greek Yogurt Parfait: 1 cup organic Greek yogurt, 1/4 cup organic granola, 1 tbsp organic honey, 1/2 cup organic mixed berries, 2 tbsp organic pumpkin seeds",
+      "instructions": "Layer yogurt, granola, and berries. Top with honey and pumpkin seeds."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Lentil and Quinoa Power Bowl: 1 cup cooked organic lentils, 1/2 cup cooked organic quinoa, 1 cup organic roasted vegetables (sweet potato, broccoli, carrots), 1/4 organic avocado, 2 tbsp organic tahini dressing",
+      "instructions": "Combine lentils, quinoa, and roasted vegetables. Top with avocado and drizzle with tahini dressing."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Protein Smoothie: 1.5 scoops organic pea protein powder, 1 cup organic almond milk, 1 organic banana, 2 tbsp organic almond butter, 1 tbsp organic chia seeds",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Edamame and Nuts Mix: 1 cup organic edamame (shelled), 1/4 cup organic mixed nuts (almonds, walnuts, cashews), 1 tbsp organic olive oil, 1 tsp organic sea salt",
+      "instructions": "Toss edamame and nuts with olive oil and salt."
+    },
+    "Dinner": {
+      "time": "19:30",
+      "details": "Organic Tofu Stir-Fry with Brown Rice: 8 oz organic firm tofu, 2 cups organic mixed vegetables (broccoli, snap peas, carrots), 1 cup cooked organic brown rice, 2 tbsp organic tamari sauce, 1 tbsp organic sesame oil",
+      "instructions": "Stir-fry tofu and vegetables in sesame oil. Add tamari sauce. Serve over brown rice."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Cottage Cheese with Fruit: 1 cup organic cottage cheese, 1/2 cup organic pineapple chunks, 2 tbsp organic flaxseeds",
+      "instructions": "Mix cottage cheese with pineapple chunks. Sprinkle with flaxseeds."
+    }
+  }
+}

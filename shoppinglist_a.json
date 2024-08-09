@@ -1,0 +1,47 @@
+{
+  "shopping_list": "A",
+  "categories": {
+    "Produce": [
+      "Spinach",
+      "Kale",
+      "Banana",
+      "Mixed greens (spinach, kale, arugula)",
+      "Avocado",
+      "Shredded carrots",
+      "Mixed berries",
+      "Apple",
+      "Cucumbers",
+      "Cherry tomatoes"
+    ],
+    "Grains": [
+      "Quinoa",
+      "Whole grain wrap",
+      "Farro",
+      "Granola"
+    ],
+    "Dairy": [
+      "Greek yogurt",
+      "Cottage cheese"
+    ],
+    "Nuts and Seeds": [
+      "Chia seeds",
+      "Almonds",
+      "Walnuts",
+      "Flax seeds",
+      "Pumpkin seeds",
+      "Sunflower seeds"
+    ],
+    "Other": [
+      "Almond milk",
+      "Almond butter",
+      "Hummus",
+      "Tahini dressing",
+      "Olive oil",
+      "Lemon juice"
+    ],
+    "Snacks": [
+      "Dried cranberries",
+      "Mixed nuts (almonds, walnuts)"
+    ]
+  }
+}

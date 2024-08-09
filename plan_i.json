@@ -1,0 +1,40 @@
+{
+  "name": "Plan I - Organic Pescatarian Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Smoked Salmon Protein Bagel: 1 organic whole grain bagel, 4 oz organic smoked salmon, 2 tbsp organic cream cheese, 1 organic egg (scrambled), 1/4 organic avocado, 1 tbsp organic capers",
+      "instructions": "Toast bagel. Layer with cream cheese, smoked salmon, scrambled egg, avocado, and capers."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Greek Yogurt Power Bowl: 1 cup organic Greek yogurt, 1 scoop organic vanilla protein powder, 1/4 cup organic granola, 1/2 cup organic mixed berries, 1 tbsp organic chia seeds, 1 tbsp organic honey",
+      "instructions": "Mix yogurt with protein powder. Top with granola, berries, chia seeds, and honey."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Tuna Quinoa Salad: 1 can organic tuna (in olive oil), 1 cup cooked organic quinoa, 1 cup organic mixed greens, 1/4 cup organic cherry tomatoes, 1/4 organic cucumber, 2 tbsp organic olive oil, juice of 1/2 organic lemon",
+      "instructions": "Mix tuna, quinoa, and vegetables. Dress with olive oil and lemon juice."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Rice Cakes with Nut Butter: 2 organic brown rice cakes, 2 tbsp organic almond butter, 1 organic banana (sliced), 1 tsp organic cinnamon",
+      "instructions": "Spread almond butter on rice cakes. Top with banana slices and sprinkle with cinnamon."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Protein-Packed Smoothie: 1.5 scoops organic pea protein powder, 1 cup organic coconut milk, 1/2 cup organic frozen mango, 1/2 cup organic spinach, 1 tbsp organic flaxseed oil",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Baked Cod with Quinoa Pilaf: 8 oz organic cod fillet, 1 cup cooked organic quinoa, 1 cup organic roasted vegetables (zucchini, bell peppers, onions), 2 tbsp organic olive oil, 1 tbsp organic lemon juice, 1 tbsp organic herbs (parsley, dill)",
+      "instructions": "Bake cod. Cook quinoa with roasted vegetables. Drizzle with olive oil and lemon juice, sprinkle with herbs."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Cottage Cheese and Fruit Bowl: 1 cup organic cottage cheese, 1/2 cup organic pineapple chunks, 1/4 cup organic chopped walnuts, 1 tbsp organic honey",
+      "instructions": "Mix cottage cheese with pineapple chunks. Top with walnuts and drizzle with honey."
+    }
+  }
+}

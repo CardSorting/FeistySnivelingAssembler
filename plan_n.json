@@ -1,0 +1,30 @@
+{
+  "name": "Plan N - Organic Time-Restricted Feeding Muscle Gainer",
+  "meals": {
+    "Meal 1": {
+      "time": "12:00",
+      "details": "Organic Protein-Packed Brunch: 3 organic eggs (scrambled), 4 oz organic smoked salmon, 1/2 organic avocado, 1 slice organic whole grain toast, 1 cup organic mixed berries, 1 tbsp organic olive oil",
+      "instructions": "Scramble eggs in olive oil. Serve with smoked salmon, avocado, toast, and berries."
+    },
+    "Snack": {
+      "time": "14:30",
+      "details": "Organic Protein Smoothie: 2 scoops organic whey protein powder, 1 cup organic whole milk, 1 organic banana, 2 tbsp organic almond butter, 1/4 cup organic rolled oats",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Meal 2": {
+      "time": "17:00",
+      "details": "Organic Chicken Quinoa Bowl: 6 oz organic grilled chicken breast, 1 cup cooked organic quinoa, 1 cup organic roasted vegetables (broccoli, carrots, zucchini), 2 tbsp organic hummus, 1 tbsp organic olive oil",
+      "instructions": "Grill chicken. Roast vegetables. Serve over quinoa with a dollop of hummus and drizzle of olive oil."
+    },
+    "Pre-Workout Snack": {
+      "time": "19:00",
+      "details": "Organic Energy Balls: 1/2 cup organic dates, 1/4 cup organic almonds, 1/4 cup organic pumpkin seeds, 2 tbsp organic chia seeds, 1 scoop organic vanilla protein powder",
+      "instructions": "Process ingredients in a food processor, roll into balls."
+    },
+    "Post-Workout Meal": {
+      "time": "21:00",
+      "details": "Organic Steak with Sweet Potato and Greens: 8 oz organic grass-fed steak, 1 large organic sweet potato, 2 cups organic mixed greens, 2 tbsp organic balsamic vinaigrette",
+      "instructions": "Grill steak. Bake sweet potato. Toss greens with vinaigrette. Serve together."
+    }
+  }
+}

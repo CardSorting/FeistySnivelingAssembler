@@ -1,0 +1,40 @@
+{
+  "name": "Plan G - Organic Mediterranean Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Mediterranean Breakfast Bowl: 2 organic eggs (poached), 1/2 cup organic Greek yogurt, 1/4 cup organic hummus, 1/2 cup organic cherry tomatoes, 1/4 cup organic cucumber, 1/4 cup organic feta cheese, 2 slices organic whole grain bread, 1 tbsp organic olive oil",
+      "instructions": "Arrange all ingredients in a bowl. Drizzle with olive oil. Serve with whole grain bread."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Protein-Packed Tzatziki: 1 cup organic Greek yogurt, 1/2 organic cucumber (grated), 1 clove organic garlic (minced), 1 tbsp organic olive oil, 1 scoop organic unflavored protein powder, organic vegetable sticks for dipping",
+      "instructions": "Mix yogurt, cucumber, garlic, olive oil, and protein powder. Serve with vegetable sticks."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Grilled Chicken Souvlaki Plate: 6 oz organic chicken breast (cubed and grilled), 1 cup cooked organic quinoa, 1 cup organic Greek salad (tomatoes, cucumber, red onion, olives, feta), 2 tbsp organic olive oil, 1 organic whole wheat pita",
+      "instructions": "Grill chicken. Serve with quinoa, Greek salad, and pita. Drizzle with olive oil."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Energy Mix: 1/4 cup organic almonds, 1/4 cup organic pistachios, 1/4 cup organic dried figs, 1/4 cup organic dried apricots",
+      "instructions": "Mix all ingredients together."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Protein Smoothie: 1.5 scoops organic vanilla protein powder, 1 cup organic almond milk, 1 organic banana, 1 tbsp organic almond butter, 1 tbsp organic honey, 1/4 cup organic rolled oats",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Baked Salmon with Quinoa Tabbouleh: 8 oz organic salmon fillet, 1 cup cooked organic quinoa, 1 cup organic parsley (chopped), 1/2 cup organic mint (chopped), 1/2 cup organic cherry tomatoes, 1/4 cup organic red onion, 2 tbsp organic olive oil, juice of 1 organic lemon",
+      "instructions": "Bake salmon. Mix quinoa with herbs, tomatoes, onion, olive oil, and lemon juice. Serve together."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Greek Yogurt Parfait: 1 cup organic Greek yogurt, 1/4 cup organic granola, 1 tbsp organic honey, 1/4 cup organic mixed berries",
+      "instructions": "Layer yogurt, granola, and berries. Drizzle with honey."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Plan U - Organic Pescatarian Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Protein-Packed Smoothie Bowl: 1 scoop organic vanilla protein powder, 1 cup organic Greek yogurt, 1/2 organic banana, 1/2 cup organic mixed berries, 2 tbsp organic almond butter, 1/4 cup organic granola",
+      "instructions": "Blend protein powder, yogurt, banana, and berries. Pour into a bowl and top with almond butter and granola."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Tuna Salad on Crackers: 4 oz organic canned tuna, 1 tbsp organic mayonnaise, 1 tbsp organic chopped celery, 6 organic whole grain crackers",
+      "instructions": "Mix tuna, mayonnaise, and celery. Serve on crackers."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Shrimp and Quinoa Bowl: 6 oz organic grilled shrimp, 1 cup cooked organic quinoa, 1 cup organic mixed vegetables (broccoli, bell peppers, zucchini), 2 tbsp organic lemon-herb dressing",
+      "instructions": "Grill shrimp. Sauté vegetables. Serve over quinoa and drizzle with dressing."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Energy Bites: 1/2 cup organic rolled oats, 2 tbsp organic honey, 2 tbsp organic peanut butter, 1 scoop organic vanilla protein powder",
+      "instructions": "Mix all ingredients, form into bite-sized balls."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Protein Shake: 1.5 scoops organic whey protein powder, 1 cup organic almond milk, 1 tbsp organic chia seeds",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:30",
+      "details": "Organic Baked Salmon with Sweet Potato and Asparagus: 8 oz organic baked salmon, 1 medium organic sweet potato, 1 cup organic steamed asparagus, 1 tbsp organic olive oil, 1 organic lemon",
+      "instructions": "Bake salmon. Roast sweet potato. Steam asparagus. Drizzle everything with olive oil and lemon juice."
+    },
+    "Evening Snack": {
+      "time": "21:30",
+      "details": "Organic Cottage Cheese with Fruit: 1 cup organic cottage cheese, 1/2 cup organic pineapple chunks, 2 tbsp organic flaxseeds",
+      "instructions": "Mix cottage cheese with pineapple chunks. Sprinkle with flaxseeds."
+    }
+  }
+}

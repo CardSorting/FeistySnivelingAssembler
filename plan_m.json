@@ -1,0 +1,40 @@
+{
+  "name": "Plan M - Organic Keto-Friendly Muscle Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Keto Breakfast Bowl: 3 organic eggs (scrambled), 4 oz organic ground beef, 1/2 organic avocado, 1/4 cup organic shredded cheese, 1 cup organic spinach, 1 tbsp organic coconut oil",
+      "instructions": "Cook ground beef in coconut oil. Add spinach and eggs. Top with cheese and avocado."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Keto Fat Bomb Smoothie: 1 scoop organic keto-friendly protein powder, 1 cup organic full-fat coconut milk, 1 tbsp organic MCT oil, 1 tbsp organic almond butter, 1/4 cup organic frozen raspberries",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Salmon Avocado Salad: 6 oz organic grilled salmon, 2 cups organic mixed greens, 1/2 organic avocado, 2 tbsp organic olive oil, 1 tbsp organic apple cider vinegar, 1 oz organic macadamia nuts",
+      "instructions": "Grill salmon. Toss greens with olive oil and vinegar. Top with salmon, avocado, and macadamia nuts."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Keto Protein Balls: 1/4 cup organic almond flour, 2 tbsp organic coconut flour, 1 scoop organic keto-friendly protein powder, 2 tbsp organic coconut oil, 1 tbsp organic erythritol",
+      "instructions": "Mix all ingredients, form into balls, and refrigerate."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Keto Protein Shake: 1.5 scoops organic keto-friendly protein powder, 1 cup organic unsweetened almond milk, 1 tbsp organic heavy cream, 1 tbsp organic MCT oil",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Keto Steak and Vegetables: 8 oz organic grass-fed ribeye steak, 1 cup organic roasted brussels sprouts, 1/2 cup organic cauliflower mash, 2 tbsp organic grass-fed butter",
+      "instructions": "Grill steak. Roast brussels sprouts. Mash cauliflower with butter."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Keto Chia Pudding: 2 tbsp organic chia seeds, 1/2 cup organic full-fat coconut milk, 1 tbsp organic erythritol, 1 oz organic dark chocolate (85% or higher)",
+      "instructions": "Mix chia seeds, coconut milk, and erythritol. Refrigerate for at least 2 hours. Top with grated dark chocolate."
+    }
+  }
+}

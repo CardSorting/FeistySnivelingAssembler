@@ -1,0 +1,40 @@
+{
+  "name": "Plan E - Organic Lean Mass Builder",
+  "meals": {
+    "Breakfast": {
+      "time": "07:00",
+      "details": "Organic Protein-Packed Frittata: 3 organic whole eggs, 3 organic egg whites, 1/2 cup organic spinach, 1/4 cup organic diced bell peppers, 1/4 cup organic feta cheese, 2 slices organic whole grain toast, 1 tbsp organic butter",
+      "instructions": "Whisk eggs, add vegetables and cheese. Cook in an oven-safe skillet, finish in the oven. Serve with buttered toast."
+    },
+    "Mid-Morning Snack": {
+      "time": "10:00",
+      "details": "Organic Protein Smoothie Bowl: 1 scoop organic vanilla protein powder, 1 cup organic frozen mixed berries, 1/2 cup organic Greek yogurt, 1/4 cup organic almond milk, topped with 2 tbsp organic granola, 1 tbsp organic chia seeds",
+      "instructions": "Blend protein powder, berries, yogurt, and almond milk. Pour into a bowl and top with granola and chia seeds."
+    },
+    "Lunch": {
+      "time": "13:00",
+      "details": "Organic Turkey and Avocado Wrap: 6 oz organic sliced turkey breast, 1 large organic whole wheat wrap, 1/2 organic avocado, 1 cup organic mixed greens, 1/4 cup organic hummus, 1/4 cup organic shredded carrots",
+      "instructions": "Spread hummus on wrap, layer with turkey, avocado, greens, and carrots. Roll up and serve."
+    },
+    "Pre-Workout Snack": {
+      "time": "15:30",
+      "details": "Organic Rice Cakes with Nut Butter: 2 organic brown rice cakes, 2 tbsp organic almond butter, 1 organic sliced banana, 1 tsp organic honey",
+      "instructions": "Spread almond butter on rice cakes, top with banana slices and a drizzle of honey."
+    },
+    "Post-Workout Snack": {
+      "time": "18:00",
+      "details": "Organic Protein Recovery Shake: 1.5 scoops organic whey protein powder, 1 cup organic coconut water, 1/2 cup organic frozen pineapple, 1/2 cup organic Greek yogurt",
+      "instructions": "Blend all ingredients until smooth."
+    },
+    "Dinner": {
+      "time": "19:00",
+      "details": "Organic Baked Chicken with Quinoa and Vegetables: 8 oz organic chicken breast, 1 cup cooked organic quinoa, 1.5 cups organic roasted vegetables (broccoli, cauliflower, carrots), 2 tbsp organic olive oil, 1 tbsp organic herbs de Provence",
+      "instructions": "Season chicken with herbs, bake. Serve with quinoa and roasted vegetables dressed with olive oil."
+    },
+    "Evening Snack": {
+      "time": "21:00",
+      "details": "Organic Cottage Cheese and Fruit: 1 cup organic cottage cheese, 1/2 cup organic mixed berries, 2 tbsp organic pumpkin seeds, 1 tsp organic vanilla extract",
+      "instructions": "Mix cottage cheese with vanilla extract, top with berries and pumpkin seeds."
+    }
+  }
+}
